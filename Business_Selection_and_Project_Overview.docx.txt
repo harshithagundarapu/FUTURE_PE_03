@@ -1,0 +1,49 @@
+# 01_Business_Selection_and_Project_Overview
+
+## AI SEO Blog & Content Cluster Generator for Business Websites
+
+### Project Overview
+
+For this project, a **Digital Marketing Agency** has been selected as the business niche. Digital marketing agencies help businesses improve their online presence through services such as Search Engine Optimization (SEO), content marketing, social media management, paid advertising, website optimization, and lead generation. Although many agencies provide excellent services, they often struggle to attract consistent website traffic because their websites lack a structured SEO content strategy.
+
+The purpose of this project is to design an AI-powered prompt engineering workflow that generates SEO-optimized blogs and content clusters. Instead of publishing random blog posts, the system focuses on creating interconnected content that targets specific keywords, answers user search intent, and builds topical authority. This approach increases the chances of ranking higher on search engines while improving the overall user experience.
+
+### Business Objective
+
+The primary objective is to create a reusable AI prompt system that enables the agency to generate high-quality blog content efficiently. The generated content should not only educate potential customers but also establish trust and encourage visitors to inquire about the agency's services.
+
+The prompt system is designed to generate:
+
+* A comprehensive pillar blog targeting a primary keyword.
+* Multiple supporting blogs that answer related questions.
+* SEO-friendly headings and structured content.
+* Local SEO content targeting a specific city and services.
+* Internal linking suggestions to strengthen website authority.
+
+This workflow allows businesses to maintain a consistent publishing schedule while reducing the time required to create quality content.
+
+### Why Content Clusters Matter
+
+Modern SEO is based on topical authority rather than isolated blog posts. Search engines prefer websites that comprehensively cover a subject through multiple related articles. A content cluster consists of one detailed pillar article connected to several supporting blogs that explore subtopics in greater depth.
+
+For example, a pillar blog about **Digital Marketing Services** can link to supporting blogs covering Local SEO, Google Business Profile Optimization, SEO Mistakes, Content Marketing Strategies, and Website Optimization Tips. These internal links help search engines understand the relationship between the content while guiding readers to additional useful information.
+
+This strategy improves keyword rankings, increases website engagement, and enhances the overall authority of the business website.
+
+### AI Tools Used
+
+The project utilizes modern AI platforms to streamline SEO content creation.
+
+**ChatGPT** assists in generating SEO-friendly blog outlines, long-form articles, keyword-focused content, and reusable prompt templates.
+
+**Claude AI** helps improve readability, content structure, and writing clarity while maintaining a natural and professional tone.
+
+**Google Gemini** supports idea generation, topic expansion, and alternative content suggestions for different business scenarios.
+
+Additional free SEO research tools such as Google Search, Google Trends, and AnswerThePublic provide keyword inspiration, search intent insights, and commonly asked user questions that strengthen the overall SEO strategy.
+
+### Expected Outcomes
+
+By implementing this AI-powered SEO content generation system, the Digital Marketing Agency can consistently publish valuable and optimized blog content that attracts organic traffic and converts visitors into potential clients. The reusable prompt framework also enables the agency to adapt the workflow for different industries without redesigning the entire content strategy.
+
+Overall, this project demonstrates how Prompt Engineering and Artificial Intelligence can simplify SEO content creation, improve website visibility, build topical authority, and support long-term business growth through an organized and scalable content marketing approach.

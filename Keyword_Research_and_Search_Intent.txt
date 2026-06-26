@@ -1,0 +1,80 @@
+# 02_Keyword_Research_and_Search_Intent
+
+## AI SEO Blog & Content Cluster Generator for Business Websites
+
+### Keyword Research and Search Intent
+
+Keyword research is the foundation of every successful SEO strategy. It helps businesses understand what potential customers are searching for on search engines and allows them to create content that directly addresses those needs. For a Digital Marketing Agency, selecting relevant keywords ensures that blog content reaches the right audience, improves website visibility, and generates qualified leads.
+
+This project focuses on creating a structured keyword strategy using a combination of primary keywords, secondary keywords, long-tail keywords, and local SEO keywords. The selected keywords are based on common search behavior and are organized according to user search intent.
+
+### Primary Keyword
+
+The main keyword selected for this project is:
+
+**"Digital Marketing Agency"**
+
+This keyword has high search potential and represents the core service offered by the business. The pillar blog will be optimized around this keyword to establish authority and improve search engine rankings.
+
+### Secondary Keywords
+
+Supporting keywords help expand the topic while improving the relevance of the pillar content. Some important secondary keywords include:
+
+* SEO Services
+* Content Marketing
+* Social Media Marketing
+* Website SEO
+* Online Marketing Agency
+* Google Business Profile Optimization
+* Local SEO Services
+* Lead Generation Services
+* Search Engine Optimization
+* Digital Branding
+
+These keywords naturally fit within the pillar article and supporting blogs, helping search engines better understand the overall topic.
+
+### Long-Tail Keywords
+
+Long-tail keywords target users with more specific search queries and often have higher conversion potential. Examples include:
+
+* Best digital marketing agency for small businesses
+* Affordable SEO services for local businesses
+* How to improve Google search rankings
+* Local SEO services for business growth
+* Content marketing strategies for startups
+* How to optimize a Google Business Profile
+* Digital marketing services near me
+* SEO tips for business websites
+
+Using these keywords allows the website to attract users who are actively looking for solutions and are more likely to become customers.
+
+### Search Intent Analysis
+
+Understanding search intent helps create content that satisfies what users are actually looking for. The keywords used in this project fall into four major categories:
+
+**Informational Intent:** Users want to learn about SEO, content marketing, local SEO, or digital marketing strategies. Blog articles, guides, and tutorials are ideal for this audience.
+
+**Navigational Intent:** Users are searching for a specific agency or service provider. Optimized landing pages and business information help satisfy this intent.
+
+**Commercial Investigation:** Users compare agencies, pricing, services, and customer reviews before making a decision. Detailed comparison blogs and service pages help build trust.
+
+**Transactional Intent:** Users are ready to contact an agency or request services. Strong calls-to-action, contact forms, and service pages encourage conversions.
+
+Creating content for all four search intents ensures the website supports customers throughout every stage of their decision-making journey.
+
+### Local SEO Keywords
+
+To attract nearby customers, local keywords are naturally incorporated into the content. Examples include:
+
+* Digital Marketing Agency in Bangalore
+* SEO Services in Bangalore
+* Local SEO Company Bangalore
+* Best Online Marketing Agency in Bangalore
+* Website SEO Services Bangalore
+* Content Marketing Agency Bangalore
+
+Including city-specific keywords improves visibility for local searches and helps the business rank in location-based Google results.
+
+### Conclusion
+
+A well-planned keyword strategy enables the Digital Marketing Agency to publish highly relevant, search-focused content that meets user needs while improving search engine rankings. By combining primary keywords, secondary keywords, long-tail phrases, and local SEO optimization, this project creates a scalable content strategy capable of generating long-term organic traffic and qualified business leads.
